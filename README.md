@@ -4,7 +4,7 @@ Hi 👋 My name is Alireza Hadjar
 React Native Developer 
 ----------------------  
 
-I have been programming JavaScript for over 4 years and have been working with React Native for over two years and have developed many applications. Also, I am always interested in trying new technologies.  
+I have been programming JavaScript for over 4 years and have been working with React Native for over 2.5 years and have developed many applications. Also, I am always interested in trying new technologies.  
 * 🌍  I'm based in Iran 
 * ✉️  You can contact me at [asiahadjar@gmail.com](mailto:asiahadjar@gmail.com) 
 * 🚀  I'm currently working on [Bamano](http://bamano.life)
