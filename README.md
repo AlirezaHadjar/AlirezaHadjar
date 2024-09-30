@@ -15,6 +15,6 @@ I have been programming JavaScript for over 4.5 years and have been working with
 <div style="display:flex; width:90%; flex-direction: row; gap: 20px">
   <div style="display:flex; flex: 1"><a href="https://github.com/AlirezaHadjar/expo-drag-drop-content-view" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alirezahadjar&repo=expo-drag-drop-content-view&title_color=D1EE18&text_color=00FF77&icon_color=D1EE18&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<div  style="display:flex; flex: 1"><a href="https://github.com/Alirezahadjar/Charlatan" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alirezahadjar&repo=Charlatan&title_color=0891b2&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div  style="display:flex; flex: 1"><a href="https://github.com/AlirezaHadjar/react-native-crafty-animations" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alirezahadjar&repo=react-native-crafty-animations&title_color=0891b2&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 </div>
 
